@@ -6,7 +6,7 @@
 ##  Project Overview
 
 **AgriData Explorer** is a data analytics project that explores **Indian agricultural patterns** using district-level data from the **ICRISAT dataset**.  
-The project applies **data cleaning, exploratory data analysis (EDA), SQL analysis, and visualization techniques** to uncover insights related to crop production, yield efficiency, regional dominance, and long-term trends.
+The project applies **data cleaning, exploratory data analysis (EDA), SQL analysis, Power Bi and visualization techniques** to uncover insights related to crop production, yield efficiency, regional dominance, and long-term trends.
 
 This project supports:
 - **Farmers** – crop selection and productivity improvement  
