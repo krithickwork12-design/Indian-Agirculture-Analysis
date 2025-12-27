@@ -215,8 +215,6 @@ that provides **clear insights and interactive visualizations**.
 
 **AgriData Explorer** delivers a comprehensive, data-driven understanding of Indian agriculture
 by combining **EDA, SQL analytics, and interactive dashboards**.
-The project demonstrates strong analytical depth, clear storytelling,
-and real-world applicability, making it **capstone-ready and interview-ready**.
 
 
 
