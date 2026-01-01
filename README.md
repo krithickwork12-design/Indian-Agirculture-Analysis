@@ -1,9 +1,9 @@
-# 🌾 AgriData Explorer  
+#  AgriData Explorer  
 ## Understanding Indian Agriculture using EDA, SQL & Power BI
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 **AgriData Explorer** is an end-to-end data analytics project focused on exploring
 **Indian agricultural patterns** using **district-level data from ICRISAT**.
@@ -18,7 +18,7 @@ This project is designed to support:
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 India’s agricultural data is vast, complex, and fragmented across regions.
 Stakeholders face challenges in:
@@ -32,7 +32,7 @@ that provides **clear insights and interactive visualizations**.
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Analyze crop production trends across Indian states and districts  
 - Identify top-producing states and districts for major crops  
@@ -44,7 +44,7 @@ that provides **clear insights and interactive visualizations**.
 
 ---
 
-## 🗂 Dataset Information
+##  Dataset Information
 
 **Source:** ICRISAT – District Level Agricultural Data  
 
@@ -65,7 +65,7 @@ that provides **clear insights and interactive visualizations**.
 
 ---
 
-## 🛠 Tools & Technologies Used
+##  Tools & Technologies Used
 
 | Category | Tools |
 |--------|------|
@@ -78,38 +78,38 @@ that provides **clear insights and interactive visualizations**.
 
 ---
 
-## 🔄 Project Workflow
+##  Project Workflow
 
-### 1️⃣ Data Collection
+### 1️ Data Collection
 - Imported district-level agricultural data from ICRISAT (CSV)
 
-### 2️⃣ Data Cleaning & Preprocessing
+### 2️ Data Cleaning & Preprocessing
 - Standardized column names
 - Converted data types
 - Handled missing values
 - Removed duplicates
 - Prepared analysis-ready dataset
 
-### 3️⃣ Exploratory Data Analysis (EDA)
+### 3️ Exploratory Data Analysis (EDA)
 - Univariate, bivariate, and multivariate analysis
 - Crop-wise and region-wise comparisons
 - Time-series trend analysis (50 years)
 - District-level deep dives
 
-### 4️⃣ SQL Analysis
+### 4️ SQL Analysis
 - Answered **10 analytical business questions** using SQL logic:
   - Growth analysis
   - Ranking and trend analysis
   - Yield efficiency
   - Crop comparisons
 
-### 5️⃣ Power BI Dashboard
+### 5️ Power BI Dashboard
 - Converted EDA and SQL logic into **interactive visuals**
 - Built a **9 page dashboard** with slicers, maps, trends, and comparisons
 
 ---
 
-## 📊 Key EDA & Analytical Insights
+##  Key EDA & Analytical Insights
 
 - **West Bengal** is the highest rice-producing state in India  
 - **Uttar Pradesh** leads wheat production and wheat yield per hectare  
@@ -124,7 +124,7 @@ that provides **clear insights and interactive visualizations**.
 
 ---
 
-## 📈 Statistical Findings
+##  Statistical Findings
 
 - Strong positive correlation between **cultivated area and production**
 - Rice shows the **strongest dependency on area**
@@ -134,7 +134,7 @@ that provides **clear insights and interactive visualizations**.
 
 ---
 
-## 📊 Power BI Dashboard Structure
+##  Power BI Dashboard Structure
 
 ### Page 1 – National Agriculture Overview
 - KPI cards (Rice, Wheat, Oilseeds)
@@ -167,7 +167,7 @@ that provides **clear insights and interactive visualizations**.
 
 ---
 
-## 🧾 SQL Questions Implemented
+##  SQL Questions Implemented
 
 1. Year-wise rice production trend (Top 3 states)  
 2. Top 5 districts by wheat yield increase (last 5 years)  
@@ -184,7 +184,7 @@ that provides **clear insights and interactive visualizations**.
 
 ---
 
-## 🏛 Business & Policy Implications
+##  Business & Policy Implications
 
 ### For Farmers
 - Focus on yield improvement instead of land expansion
@@ -201,7 +201,7 @@ that provides **clear insights and interactive visualizations**.
 
 ---
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - Crop yield prediction using machine learning
 - Climate & rainfall data integration
@@ -211,7 +211,7 @@ that provides **clear insights and interactive visualizations**.
 
 ---
 
-## 📌 Conclusion
+##  Conclusion
 
 **AgriData Explorer** delivers a comprehensive, data-driven understanding of Indian agriculture
 by combining **EDA, SQL analytics, and interactive dashboards**.
